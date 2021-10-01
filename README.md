@@ -15,7 +15,7 @@ We will be creating a content-based recommender.
 Content-based methods are based on the similarity of movie attributes. Using this type of recommender system, if a user watches one movie, similar movies are recommended. For example, if a user watches a comedy movie starring Adam Sandler, the system will recommend them movies in the same genre or starring the same actor, or both. With this in mind, the input for building a content-based recommender system is movie attributes.
 
 ## Link to the working application
-Check out -> https://pratham-movie-time.herokuapp.com/
+Check out -> https://pratham-movie-guide.herokuapp.com/
 
 ## Snapshots of the application
 
