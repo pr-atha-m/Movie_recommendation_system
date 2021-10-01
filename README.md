@@ -20,14 +20,16 @@ Check out -> https://pratham-movie-guide.herokuapp.com/
 ## Snapshots of the application
 
 
-![GitHub Logo](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot%20(313).png)
+![](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot_20211001-173712.png)
 
  
-![GitHub Logo](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot%20(314).png)
+![](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot_20211001-173728.png)
 
 
-![GitHub Logo](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot%20(315).png)
+![](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot_20211001-173744.png)
 
+
+![](https://github.com/pr-atha-m/Movie_recommendation_system/blob/main/Images/Screenshot_20211001-173758.png)
 
 ## How to get the API key?
 
