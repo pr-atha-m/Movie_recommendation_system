@@ -16,6 +16,7 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 
 ## Link to the working application
 Ps: use dark mode for better user experience
+
 Check out -> https://pratham-movie-guide.herokuapp.com/
 
 ## Snapshots of the application
